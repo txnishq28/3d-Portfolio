@@ -5,7 +5,7 @@
 
 A visually stunning, interactive 3D portfolio website built using **React**, **Vite**, **Three.js**, and **Tailwind CSS**. It showcases projects, experience, and contact information with beautiful 3D animations and smooth scroll interactions.
 
-> 🚀 **Live Site**: [https://3d-portfolio-lemon-beta.vercel.app/](https://3d-portfolio-lemon-beta.vercel.app/)
+> 🚀 **Live Site**: [https://3d-portfolio-lemon-beta.vercel.app/](https://3d-tanishq-portfolio.vercel.app/)
 
 ---
 
