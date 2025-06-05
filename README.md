@@ -56,6 +56,7 @@ npm install
 
 # Run the development server
 npm run dev
+
 📦 Build for Production
 bash
 npm run build
@@ -66,7 +67,8 @@ This project is deployed on Vercel, which automatically builds and deploys the s
 
 🙋‍♂️ Author
 Tanishq Tiwari
-Connect with me on LinkedIn
+Connect with me on LinkedIn: https://www.linkedin.com/in/tanishq-tiwari-0193702b9/
+
 GitHub: @txnishq28
 
 📜 License
