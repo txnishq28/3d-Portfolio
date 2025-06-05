@@ -204,7 +204,7 @@ export const projects = [
         theme: 'btn-back-blue',
         name: '3D Portfolio Website',
         description: 'Crafted a 3D portfolio using React and Three.js with 6 interactive models and animations, optimized for 95+ Lighthouse performance.',
-        live: 'https://txnishq28.vercel.app/',
+        live: 'https://3d-portfolio-lemon-beta.vercel.app/',
         source: 'https://github.com/txnishq28/3d-portfolio',
     },
     {
