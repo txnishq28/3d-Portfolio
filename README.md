@@ -47,9 +47,6 @@ A visually stunning, interactive 3D portfolio website built using **React**, **V
 
 ---
 
-## 🛠️ Setup Instructions
-
-bash
 # Clone the repository
 git clone https://github.com/txnishq28/3d-Portfolio.git
 cd 3d-Portfolio
