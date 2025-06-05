@@ -20,7 +20,7 @@ const Navbar = () => {
           href="https://drive.google.com/file/d/1j14pwKvAVytb99zT8qUUaX3hRCE_sVX6/view?usp=drive_link"
           target="_blank"
           rel="noopener noreferrer"
-          className="text-black hover:text-purple-400"
+          className="text-black"
         >
           Resume
         </a>
