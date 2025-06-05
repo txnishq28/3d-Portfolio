@@ -66,8 +66,12 @@ Output will be generated in the dist/ directory.
 This project is deployed on Vercel, which automatically builds and deploys the site on every git push.
 
 🙋‍♂️ Author
+
 Tanishq Tiwari
-Connect with me on LinkedIn: https://www.linkedin.com/in/tanishq-tiwari-0193702b9/
+
+Connect with me on
+
+LinkedIn: https://www.linkedin.com/in/tanishq-tiwari-0193702b9/
 
 GitHub: @txnishq28
 
