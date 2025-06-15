@@ -209,7 +209,7 @@ export const projects = [
     },
     {
         imageUrl: complaint,
-        theme: 'btn-back-orange',
+        theme: 'btn-back-yellow',
         name: 'Works Complaint Management System',
         description: 'Developed a PHP-based complaint portal for DRDO serving 500+ employees, reducing resolution time by 30% with real-time updates.',
         live: '', // Not public
