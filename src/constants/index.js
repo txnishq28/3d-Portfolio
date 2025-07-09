@@ -172,7 +172,7 @@ export const projects = [
         theme: 'btn-back-darkgreen',
         name: 'Online Chess Game',
         description: 'Built an interactive online chess game with real-time multiplayer support and a clean UI, enhancing competitive gameplay experience.',
-        live: '', // No live version yet
+        live: 'https://checkmate-app-hh80.onrender.com',
         source: 'https://github.com/txnishq28/Chess',
     },
     {
