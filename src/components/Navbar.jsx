@@ -17,7 +17,7 @@ const Navbar = () => {
           Contact
         </NavLink>
         <a
-          href="https://drive.google.com/file/d/1j14pwKvAVytb99zT8qUUaX3hRCE_sVX6/view?usp=drive_link"
+          href="https://drive.google.com/file/d/1JqA_FO41CYAS2q0EFCk4JvfTwgZgwz0X/view?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
           className="text-black"
